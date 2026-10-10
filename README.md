@@ -23,8 +23,8 @@ The tutorials support two main scientific directions:
 ├── requirements.txt
 ├── .gitignore
 ├── notebooks/
-│   ├── 01_guided_VSX_Gaia_Rubin_tutorial.ipynb
-│   └── 02_home_data_download_and_crossmatch.ipynb
+│   ├── LINCC_VSX_Gaia_Rubin_complete_tutorial.ipynb
+│   └── LINCC_download_variables_Gaia_VSX.ipynb
 ├── scripts/
 │   └── download_drive_data.py
 ├── config/
