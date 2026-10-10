@@ -1,0 +1,28 @@
+name: lincc-rubin
+channels:
+  - conda-forge
+channel_priority: strict
+dependencies:
+  - python=3.12
+  - lsdb=0.10.4
+  - hats=0.10.4
+  - nested-pandas=0.6.10
+  - dask
+  - distributed
+  - numpy
+  - pandas
+  - scipy
+  - matplotlib
+  - astropy
+  - pyarrow
+  - aiohttp
+  - fsspec
+  - universal-pathlib
+  - scikit-learn
+  - jupyterlab
+  - ipykernel
+  - ipywidgets
+  - tqdm
+  - pip
+  - pip:
+      - gdown>=6.4

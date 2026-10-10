@@ -1,0 +1,18 @@
+{
+  "downloads": [
+    {
+      "name": "hackathon_alert_catalog",
+      "url": "REPLACE_WITH_PUBLIC_GOOGLE_DRIVE_FILE_URL",
+      "output": "data/hackathon_alert_catalog.zip",
+      "folder": false,
+      "unpack": true
+    },
+    {
+      "name": "supporting_products",
+      "url": "REPLACE_WITH_PUBLIC_GOOGLE_DRIVE_FOLDER_URL",
+      "output": "data/supporting_products",
+      "folder": true,
+      "unpack": false
+    }
+  ]
+}
